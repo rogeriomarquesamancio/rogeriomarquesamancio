@@ -1,4 +1,4 @@
-<h3> :wave: &nbsp;Olá, eu nome é <strong>Rogério Marques</strong> </h3>
+<h3> :wave: &nbsp;Olá, meu nome é <strong>Rogério Marques</strong> </h3>
 
 - 💻 &nbsp; Apaixonado por tecnologia.
 - 🎓 &nbsp; Sou formado em  **Sistemas de Informação** na PUC-MG.
